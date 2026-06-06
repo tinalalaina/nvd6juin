@@ -1,0 +1,5 @@
+touch monfichier.txt
+nano monfichier.txt
+
+git config --global user.name "tinalalaina"
+git config --global user.email "tinalalaina14@@gmail.com"
